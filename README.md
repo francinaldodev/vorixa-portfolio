@@ -100,7 +100,26 @@ Projeto em desenvolvimento e utilizado como experiência prática em um negócio
 ## Demonstração visual
 
 ### Site institucional
+## Desenvolvedor
 
+**Francinaldo Oliveira — Desenvolvedor Full Stack Júnior**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francinaldo_Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francinaldodev/)
+[![GitHub](https://img.shields.io/badge/GitHub-francinaldodev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francinaldodev)
+
+## Demonstração do sistema
+
+### Site institucional
+
+![Site institucional VORIXA](docs/images/01-site-vorixa.png)
+
+### Painel administrativo
+
+![Painel administrativo VORIXA](docs/images/02-painel-administrativo.png)
+
+### Cardápio digital no celular
+
+![Cardápio digital VORIXA](docs/images/03-cardapio-mobile.jpeg)
 ![Site institucional VORIXA](docs/images/01-site-vorixa.png)
 
 ### Painel administrativo
